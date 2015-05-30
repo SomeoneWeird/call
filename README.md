@@ -17,3 +17,7 @@ this.GLOBAL.global.root.Function.__proto__.call(Call, [ hello ]); // this will l
 # License
 
 AGPL
+
+# Disclaimer
+
+This is a joke. Obviously.
